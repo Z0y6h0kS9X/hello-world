@@ -6,3 +6,5 @@ This is the starting section of the ReadMe to gain familiarty while I learn more
 Adding a basic line to test commits!
 
 Adding line 2
+
+Adding line 3!
